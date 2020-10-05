@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasbt/stat451-machine-learning-fs20/master)
+
 # stat451-machine-learning-fs20
 
 STAT 451: Intro to Machine Learning @ UW-Madison (Fall 2020)
