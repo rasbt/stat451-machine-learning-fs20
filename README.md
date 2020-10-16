@@ -4,7 +4,9 @@
 
 STAT 451: Intro to Machine Learning @ UW-Madison (Fall 2020)
 
-- [Lecture 01](lecture01): Course overview, introduction to machine learning
-- [Lecture 02](lecture02): Nearest Neighbor Methods
-- [Lecture 03](lecture03): Python
-- [Lecture 04](lecture04): Scientific Computing in Python
+- [Lecture 01](L01): Course overview, introduction to machine learning
+- [Lecture 02](L02): Nearest Neighbor Methods
+- [Lecture 03](L03): Python
+- [Lecture 04](L04): Scientific Computing in Python
+- [Lecture 05](L05): Scikit-learn
+- [Lecture 06](L06): Decision Trees
