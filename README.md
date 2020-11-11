@@ -11,3 +11,5 @@ STAT 451: Intro to Machine Learning @ UW-Madison (Fall 2020)
 - [Lecture 05](L05): Scikit-learn
 - [Lecture 06](L06): Decision Trees
 - [Lecture 07](L07): Ensemble Methods
+- [Lecture 08](L08): Model Evaluation 1: Overfitting and Underfitting
+- [Lecture 09](L09): Model Evaluation 2: Resampling Methods and Confidence Intervals
