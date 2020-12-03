@@ -15,3 +15,4 @@ STAT 451: Intro to Machine Learning @ UW-Madison (Fall 2020)
 - [Lecture 09](L09): Model Evaluation 2: Resampling Methods and Confidence Intervals
 - [Lecture 10](L10): Model Evaluation 3: Cross-Validation and Model Selection
 - [Lecture 11](L11): Model Evaluation 4: Algorithm Comparison
+- [Lecture 12](L12): Model Evaluation 5: Performance Metrics
